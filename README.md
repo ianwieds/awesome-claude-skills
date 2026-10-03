@@ -86,6 +86,7 @@
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
+- [omega](https://github.com/Omega-JS-Stack/omega/tree/main/agent-plugins/claude/skills) - Skills for the OMEGA JavaScript stack: build a website, backend, desktop app and browser extension from one project, with SEO, accessibility and analytics checks.
 
 
 ## 📊 Data & Analysis
